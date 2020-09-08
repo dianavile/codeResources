@@ -6,17 +6,19 @@ Useful Resources for Developers
 [WomenWhoCode](https://www.womenwhocode.com/resources)
 [Invent with Code](https://www.inventwithcode.com/resources/)
 
-### 0: GENERAL [**Articles**](DevelopmentArticles.md), [**General Resources for Learning Web Development**](generalResources.md),[**CHEATSHEETS**](cheatSheets.md)
-### 1: [**ALGORITHMS & DATASTRUCTURES**](AlgorithmsDataStructures.md)
-### 2: [**GIT & GITHUB(version control)**](Using_Git_and_GitHub.md) 
-### 3: [**CSS Resources**](CSSResources.md)
-### 4: [**WEB DESIGN Resources**](WebDesignResources.md
-### 5: [**WEBDEVELOPMENT TOOLS**](WebDevTools.md)
-### 6: [**JAVASCRIPT Resources**](JavaScript.md)
-### 7:[**CODE INTERVIEWING**](HowtoInterviewforCodeJobs.md): 
-### 8: [**PODCASTS**](Podcasts.md)
-### 9: [**PROGRAMMING BOOKSs**](Programming_Books.md) 
-### 10: [**YOUTUBE CHANNELS**](YouTubeChannels.md)
+### 1: [**Articles**](DevelopmentArticles.md)
+### 2: [**General Resources for Learning Web Development**](generalResources.md)
+### 3:[**CHEATSHEETS**](cheatSheets.md)
+### 4: [**ALGORITHMS & DATASTRUCTURES**](AlgorithmsDataStructures.md)
+### 5: [**GIT & GITHUB(version control)**](Using_Git_and_GitHub.md) 
+### 6: [**CSS Resources**](CSSResources.md)
+### 7: [**WEB DESIGN Resources**](WebDesignResources.md
+### 8: [**WEBDEVELOPMENT TOOLS**](WebDevTools.md)
+### 9: [**JAVASCRIPT Resources**](JavaScript.md)
+### 10:[**CODE INTERVIEWING**](HowtoInterviewforCodeJobs.md): 
+### 11: [**PODCASTS**](Podcasts.md)
+### 12: [**PROGRAMMING BOOKSs**](Programming_Books.md) 
+### 13: [**YOUTUBE CHANNELS**](YouTubeChannels.md)
 
 
 
