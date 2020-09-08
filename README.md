@@ -12,7 +12,7 @@ Useful Resources for Developers
 ### 4: [**ALGORITHMS & DATASTRUCTURES**](AlgorithmsDataStructures.md)
 ### 5: [**GIT & GITHUB(version control)**](Using_Git_and_GitHub.md) 
 ### 6: [**CSS Resources**](CSSResources.md)
-### 7: [**WEB DESIGN Resources**](WebDesignResources.md
+### 7: [**WEB DESIGN Resources**](WebDesignResources.md)
 ### 8: [**WEBDEVELOPMENT TOOLS**](WebDevTools.md)
 ### 9: [**JAVASCRIPT Resources**](JavaScript.md)
 ### 10:[**CODE INTERVIEWING**](HowtoInterviewforCodeJobs.md): 
