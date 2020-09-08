@@ -2,13 +2,16 @@
 Useful Resources for Developers
 
 ## Content
-
-### GENERAL
 - [Frontend Handbook- Frontend Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [**Articles**](DevelopmentArticles.md): General articles page on web development.
-- [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
-- [**CHEATSHEETS **](cheatSheets.md): to lookup.
+-[WomenWhoCode](https://www.womenwhocode.com/resources)
+-Invent with Code](https://www.inventwithcode.com/resources/)
 
+### 0: GENERAL
+[**Articles**](DevelopmentArticles.md): 
+General articles page on web development.
+[**General Resources for Learning Web Development**](generalResources.md):  
+Free resources for learning web development and coding in general.
+[**CHEATSHEETS **](cheatSheets.md): to lookup.
 ### 1: [**ALGORITHMS & DATASTRUCTURES**](AlgorithmsDataStructures.md): 
 Resources for tackling algorithms.
 ### 2: [**GIT & GITHUB(version control)**](Using_Git_and_GitHub.md): 
